@@ -1,4 +1,4 @@
-update=2017 May 06, Saturday 11:37:14
+update=2017 May 15, Monday 09:43:37
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,7 +25,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=
+LibDir=/Volumes/Data/Users/kgolinski/Documents/KiCad-libs
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -56,5 +56,18 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=freetronics_kicad_library/freetronics_schematic
+LibName31=tinkerforge-kicad-libraries/tinkerforge
+LibName32=schematics/w_analog
+LibName33=schematics/w_connectors
+LibName34=schematics/w_device
+LibName35=schematics/w_logic
+LibName36=schematics/w_memory
+LibName37=schematics/w_microcontrollers
+LibName38=schematics/w_opto
+LibName39=schematics/w_relay
+LibName40=schematics/w_rtx
+LibName41=schematics/w_transistor
+LibName42=schematics/w_vacuum
 [general]
 version=1
